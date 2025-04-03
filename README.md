@@ -11,6 +11,5 @@ Polymorphism is an Object-Oriented Programming (OOP) concept that allows a singl
 
 ## Topics to Learn
 - Implementing method overriding in derived classes  
-- Using operator overloading with `__add__`, `__sub__`, etc.  
 - Understanding duck typing and dynamic method resolution  
 - Exploring function and class polymorphism  
