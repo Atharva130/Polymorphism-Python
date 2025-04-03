@@ -7,7 +7,6 @@ Polymorphism is an Object-Oriented Programming (OOP) concept that allows a singl
 - **Method Overloading** (Not directly supported in Python)  
 - **Method Overriding**  
 - **Operator Overloading**  
-- **Duck Typing**  
 
 ## Topics to Learn
 - Implementing method overriding in derived classes  
